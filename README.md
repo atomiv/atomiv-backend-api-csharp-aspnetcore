@@ -1,2 +1,2 @@
-# atomiv-backend-csharp
-Atomiv - Backend (C#)
+# atomiv-backend-csharp-aspnetcore
+Atomiv - Backend (C# ASP.NET Core)
